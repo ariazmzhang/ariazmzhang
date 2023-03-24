@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 I'm Aria! Thanks for stopping by! I’m currently a Computer Science student at Carleton University.
 
-🪜 Welcome to visit my [personal website](https://ariazmzhang.github.io/)
+🪜 Welcome to visit my [personal website](https://ariazmzhang.github.io/).
 
 💻 I like coding in ☕ Java, 🐍 Python and 🌐 JavaScript!
 
 🔨 I'm currently working on a [large feedback collection web app](https://github.com/ariazmzhang/feedback-collection) based on React and Node.
 
-⚡ Fun fact: I co-host a Chinse podcast called [单人房ALoneRoom](https://podcasts.apple.com/us/podcast/%E5%8D%95%E4%BA%BA%E6%88%BFaloneroom/id1630138994?ign-itscg=30200S&ign-itsct=podcast_box) !
+⚡ Fun fact: I co-host a Chinse podcast called [单人房ALoneRoom](https://podcasts.apple.com/us/podcast/%E5%8D%95%E4%BA%BA%E6%88%BFaloneroom/id1630138994?ign-itscg=30200S&ign-itsct=podcast_box).
 
 Feel free to reach out to me!
