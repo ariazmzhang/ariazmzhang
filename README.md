@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Aria! Thanks for stopping by! I’m currently a Computer Science student at Carleton University.
+
+🪜 Welcome to visit my personal website: https://ariazmzhang.github.io/
+
+💻 I like coding in ☕ Java, 🐍 Python and 🌐 JavaScript!
+
+🔨 I'm currently working on a large feedback collection web app based on React and Node.
+
+⚡ Fun fact: I co-host a podcast called A Lone Room!
+
+Feel free to reach out to me!
