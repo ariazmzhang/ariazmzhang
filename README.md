@@ -19,7 +19,7 @@
   <img src="/assets/github.svg" width="20" height="20" />
 </p>
 
-<h1></h1>
+<br />
 
 🪜 Welcome to visit my [personal website](http://ariazhang.me/).
 
