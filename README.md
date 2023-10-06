@@ -9,7 +9,7 @@
   
 <p>
   <img src="/assets/java.svg" width="20" height="20" />
-  <img src="/assets/python.svg" width="20" height="20" />
+  <img src="/assets/python-5.svg" width="20" height="20" />
   <img src="/assets/c.svg" width="20" height="20" />
   <img src="/assets/typescript.svg" width="20" height="20" />
   <img src="/assets/javascript.svg" width="20" height="20" />
@@ -18,6 +18,8 @@
   <img src="/assets/stackoverflow.svg" width="20" height="20" />
   <img src="/assets/github.svg" width="20" height="20" />
 </p>
+
+<h1></h1>
 
 🪜 Welcome to visit my [personal website](http://ariazhang.me/).
 
