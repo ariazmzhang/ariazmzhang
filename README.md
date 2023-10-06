@@ -2,7 +2,7 @@
 
 👋🏻&nbsp;Hi there! <br/>💬 This is 张之梦, you can also call me Aria.
 
-🇨🇳 Chinese <br/>🇺🇸 Live and work in Canada 
+🇨🇳 Chinese <br/> 🇨🇦 Live and work in Canada 
 
 
 💬 Here are my favorite logos:
